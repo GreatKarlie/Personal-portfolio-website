@@ -1,0 +1,17 @@
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#bloc{
+    background-image: -webkit-linear-gradient(75deg, #F28F16 50%, #68CFA9 50%)
+}
+
+.nav{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
